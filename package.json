@@ -1,0 +1,11 @@
+{
+  "name": "jtopo",
+  "version": "0.4.8_01",
+  "description": "JTopo test!",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
